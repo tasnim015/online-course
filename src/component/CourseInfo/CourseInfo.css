@@ -1,0 +1,22 @@
+.course-name{
+    color:lightblue;
+    font-weight:160px;
+    font-size:40px;
+}
+.course-info{
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 15px;
+    margin-right: 8px;
+    text-align: center;
+}
+.enroll-button{
+
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+    padding: 8px;
+    margin-bottom: 10px ;
+    border-radius: 5px;
+    border: 1px solid darkgray;
+}
